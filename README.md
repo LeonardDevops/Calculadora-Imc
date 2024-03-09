@@ -5,3 +5,5 @@ Características Principais
 HTML, CSS e JavaScript: As tecnologias web padrão foram utilizadas para criar uma aplicação leve e de fácil utilização.
 
 Cálculo do IMC: A aplicação realiza o cálculo do IMC com base no peso e altura fornecidos pelo usuário.
+
+Link do App : https://calculadora-imc-six-gray.vercel.app/
